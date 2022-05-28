@@ -3,7 +3,7 @@
  - Fun
  - Slick 
 
-** [**Project 2: This is actually just google, it appears I have fooled you**](https://www.google.com)
+[**Project 2: This is actually just google, it appears I have fooled you**](https://www.google.com)
  - Not mine
  - Actually google's
  - No credit taken
